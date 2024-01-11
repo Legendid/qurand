@@ -493,4 +493,3 @@ async def qhhwhw(interaction: nextcord.Interaction):
                        فهذا مصحف تم إنشاؤه من قبل المطورين بهدف تبادل وكسب الأجر وعدم إهمال قراءة القرآن الكريم، تجدون أدناه 4 قوائم للسور تحتوي على سور القرآن الكريم __( اضغط على السورة المراد قراءتها )__ ، كما توجد أيضاً أزرار للتنقل بين الصفحات بكل سهولة.** """, color=5763719)
   await interaction.send(embed=embed, view=send_quran1())
 
-bot.run("MTE4Nzc1NzE5NTA5ODU5NTM5OA.GKYrTy.Q_6dEvZaNnMJn82CI2Q1-GxuJT0VdfLeiw4n8s")
